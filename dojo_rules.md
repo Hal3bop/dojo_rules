@@ -9,3 +9,5 @@ Dojo Rules
 * no coffee in the dojo
 
 All members should read the rules
+
+https://github.com/deadlyvipers
